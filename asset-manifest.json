@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/cmary2023/robofriends.git/static/css/main.1df70ed4.css",
-    "main.js": "/cmary2023/robofriends.git/static/js/main.67c6d2bb.js",
-    "static/js/787.32032a02.chunk.js": "/cmary2023/robofriends.git/static/js/787.32032a02.chunk.js",
-    "static/media/Cat.woff": "/cmary2023/robofriends.git/static/media/Cat.7eddb77f94528dbcd0b8.woff",
-    "index.html": "/cmary2023/robofriends.git/index.html",
-    "main.1df70ed4.css.map": "/cmary2023/robofriends.git/static/css/main.1df70ed4.css.map",
-    "main.67c6d2bb.js.map": "/cmary2023/robofriends.git/static/js/main.67c6d2bb.js.map",
-    "787.32032a02.chunk.js.map": "/cmary2023/robofriends.git/static/js/787.32032a02.chunk.js.map"
+    "main.css": "/robofriends/static/css/main.2a9463f4.css",
+    "main.js": "/robofriends/static/js/main.a4d621ae.js",
+    "static/js/787.32032a02.chunk.js": "/robofriends/static/js/787.32032a02.chunk.js",
+    "static/media/Cat.woff": "/robofriends/static/media/Cat.7eddb77f94528dbcd0b8.woff",
+    "index.html": "/robofriends/index.html",
+    "main.2a9463f4.css.map": "/robofriends/static/css/main.2a9463f4.css.map",
+    "main.a4d621ae.js.map": "/robofriends/static/js/main.a4d621ae.js.map",
+    "787.32032a02.chunk.js.map": "/robofriends/static/js/787.32032a02.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1df70ed4.css",
-    "static/js/main.67c6d2bb.js"
+    "static/css/main.2a9463f4.css",
+    "static/js/main.a4d621ae.js"
   ]
 }
