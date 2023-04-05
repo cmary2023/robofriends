@@ -1,6 +1,6 @@
 {
   "name": "robofriends",
-  "homepage": "https://github.com/cmary2023/robofriends.git",
+  "homepage": "https://cmary2023.github.io/robofriends",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -22,6 +22,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
+    
   },
   "eslintConfig": {
     "extends": [
