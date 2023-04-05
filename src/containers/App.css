@@ -1,0 +1,12 @@
+
+@font-face {
+    font-family: 'Cat Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Cat Regular'), url('Cat.woff') format('woff');
+    }
+    h1 {
+        font-family: 'Cat Regular';
+        font-weight: 500px;
+        color: orchid;
+    }
